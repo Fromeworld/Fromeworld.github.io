@@ -1,4 +1,4 @@
-# install
+# Install
 
 <https://jekyllrb.com/docs/>
 

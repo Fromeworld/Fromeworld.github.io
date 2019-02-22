@@ -1,4 +1,4 @@
-# github pages
+# Github pages
 
 <https://jekyllrb.com/docs/github-pages/>
 
