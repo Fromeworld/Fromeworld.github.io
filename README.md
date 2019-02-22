@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/Fromeworld/Fromeworld.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Here I added a Jekyll template [myblog](https://github.com/Fromeworld/Fromeworld.github.io/edit/master/myblog_q/index.md)
+Here I added a Jekyll template [myblog](https://github.com/Fromeworld/Fromeworld.github.io/edit/master/myblog_q/_site/index.html)
 
 ### Markdown
 
