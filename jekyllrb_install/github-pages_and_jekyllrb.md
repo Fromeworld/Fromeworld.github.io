@@ -1,4 +1,8 @@
-# Github pages
+---
+layout: page
+title: Github pages
+permalink: /github-pages/
+---
 
 <https://jekyllrb.com/docs/github-pages/>
 

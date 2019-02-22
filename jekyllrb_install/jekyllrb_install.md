@@ -1,4 +1,8 @@
-# Install
+---
+layout: page
+title: Install
+permalink: /install/
+---
 
 <https://jekyllrb.com/docs/>
 
