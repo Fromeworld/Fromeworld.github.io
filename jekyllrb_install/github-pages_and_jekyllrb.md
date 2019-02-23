@@ -13,6 +13,9 @@ github-pages seems nedd jekyll 3.7.4 (19.2.22)
 Setting up your github pages site locally with Jekyll
 <https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll>
 
+Adding Jekyll plugins to a Github pages site
+<https://help.github.com/en/articles/adding-jekyll-plugins-to-a-github-pages-site>
+
 Layout
 <https://jekyllrb.com/docs/step-by-step/04-layouts/>
 

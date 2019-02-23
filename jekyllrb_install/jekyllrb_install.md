@@ -20,3 +20,9 @@ Install Jekyll
 4. Build the site and make it available on a local server
    `bundle exec jekyll serve`
 5. Now browse to `http://localhost:4000`
+
+TODO list
+
+1. add preview picture for blogs 
+2. add comment system, restrict to github user.
+   <https://deepaksood619.github.io/technology/adding-comments-system-for-posts-in-jekyll/>
