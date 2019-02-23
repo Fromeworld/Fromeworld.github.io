@@ -23,6 +23,8 @@ Install Jekyll
 
 TODO list
 
-1. add preview picture for blogs
-2. add comment system, restrict to github user.
+1. [ok] add preview picture for blogs
+2. [ok] add comment system, restrict to github user.
    <https://deepaksood619.github.io/technology/adding-comments-system-for-posts-in-jekyll/>
+3. fix the position of the comment box at the bottom of each pages.
+4. show tag
