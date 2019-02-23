@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "My second post"
 image: /images/19-2-22.png
 ---

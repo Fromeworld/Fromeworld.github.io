@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   appear and disappear (randomly?). So let us give our best wishes to 
   this new world's blog/site. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fromeworld.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Fromeworld
 
@@ -33,10 +33,13 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-avatar
+  # - jekyll-avatar
   - jemoji
-  - jekyll-mentions
-  - jekyll-include-cache
+  # - jekyll-mentions
+  # - jekyll-include-cache
+
+disqus:
+  shortname: 'RPCUOWEII'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
